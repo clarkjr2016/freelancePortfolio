@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: HKGrotesk-Light
+font link: https://hanken.co/product/hk-grotesk/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: Krish
+icon designer link: /uillusion
+        
+
+fontColor: {"hex":"#000000"}
+bgColor: {"gradient-0":"transparent","gradient-1":"#FFFFFF"}
+iconColor: {"hex":"#000000"}
+
+      
