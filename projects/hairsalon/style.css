@@ -67,6 +67,51 @@ nav .hamburgerMenu {
   padding-right: 10px;
   display: none;
 }
+
+/* layout for Main Area and Below */
+
+section {
+  padding: 50px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto;
+}
+
+.container.column {
+  flex-direction: column;
+}
+
+.container.mainStart {
+  justify-content: flex-start;
+}
+
+.container.mainEnd {
+  justify-content: flex-end;
+}
+
+.container.mainCenter {
+  justify-content: center;
+}
+
+.container.crossStart {
+  align-items: flex-start;
+}
+
+.container.crossEnd {
+  align-items: flex-end;
+}
+
+.container.crossCenter {
+  align-items: center;
+}
+
+/*Mainly for img elements */
+.responsiveChildElement {
+  max-width: 100%;
+}
 /* 
 nav ul,
 nav li {
@@ -324,7 +369,4 @@ hr {
     display: flex;
     justify-content: space-between;
   }
-  /* need to figure out how to make the height of the nav bar stay there
-
-*/
 }
