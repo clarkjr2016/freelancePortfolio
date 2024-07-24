@@ -27,16 +27,18 @@ nav {
   gap: 10px 20px;
 }
 
-nav .firstImage {
+nav .firstImageWrapper {
   flex: 1 1 33%;
   max-height: 75px;
+  margin: 0 auto;
 }
 
-.firstImage img {
-  min-width: 75px;
+.firstImageWrapper img {
   max-width: 100%;
-  height: auto;
-}
+  max-height: 100px;
+  display: block;
+  margin: auto;
+} /* This gave me hell but you need to give an img a display of block or inline-block if you want to adjust the height and width, Could have also just added a large font*/
 
 nav ul {
   flex: 2 1 66%;
@@ -49,6 +51,7 @@ nav ul {
 nav li,
 nav a {
   padding: 20px 0;
+  text-decoration: none;
 }
 
 nav li:hover,

@@ -13,7 +13,7 @@
 
 - Images and Icons:
 
-  - Need to update icon in navbar and make it transparent
+  - Need to update icon in navbar and make it transparent (DONE)
 
   - Need to find a good picture that I can place in the background of the first section (utilize a image editor to resize it)
 
