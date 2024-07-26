@@ -1,0 +1,2 @@
+- Collect Picture for the header
+- Collect 5 pictures for the gallery
