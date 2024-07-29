@@ -5,11 +5,11 @@
   --primaryColor: #ffc0cb;
   --secondaryColor: #800020;
   --accentColor: #ffd700;
-  --mainBackground: #d3d3d3;
+  --mainBackground: #f3f3f3;
   --textBackgrounds: #ffffff;
   --primaryText: #36454f;
   --highlightColor: #98ff98;
-  --textColorForLightBackgrounds: #000000;
+  --textColorForLightBackgrounds: #272727;
 }
 
 /*
@@ -2131,11 +2131,11 @@ ul.actions.special {
 }
 
 .wrapper.style2 {
-  background: #fff;
+  background: var(--mainBackground);
 }
 
 .wrapper.style2 .title {
-  background: #fff;
+  background: var(--mainBackground);
   color: #484d55;
 }
 
