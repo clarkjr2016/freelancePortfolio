@@ -1794,7 +1794,7 @@ button,
   overflow: hidden;
   box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5),
     inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-  background-color: #43b3e0;
+  background-color: rgb(66, 133, 224);
   padding: 1em 2.35em 1em 2.35em;
   font-size: 1.1em;
   max-width: 24em;
@@ -2089,7 +2089,7 @@ ul.actions li:first-child {
 }
 
 .icon.featured {
-  color: #ea8a95;
+  color: rgb(66, 133, 224);
   display: block;
   margin: 0 0 1.5em 0;
   cursor: default;
